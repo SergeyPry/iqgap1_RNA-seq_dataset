@@ -1,0 +1,9 @@
+sampleName	genotype
+wt_1	wildtype
+wt_2	wildtype
+wt_3	wildtype
+wt_4	wildtype
+iqgap1_mut_1	iqgap1 mutant
+iqgap1_mut_2	iqgap1 mutant
+iqgap1_mut_3	iqgap1 mutant
+iqgap1_mut_4	iqgap1 mutant

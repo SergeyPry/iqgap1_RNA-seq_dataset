@@ -1,0 +1,15 @@
+Term	Samplegenecount	Totalgenecount	Pvalue	correctedPvalue	Belowthreshold?
+blood	42	270	4.31756e-18	0.00000	YES
+intermediate cell mass of mesoderm	42	313	1.04388e-15	0.00000	YES
+blood cell	18	60	1.78100e-13	0.00000	YES
+macrophage	22	152	2.19149e-09	0.00000	YES
+kidney	68	1231	2.37581e-06	0.00010	YES
+liver	121	2727	0.00001	0.00044	YES
+ventral wall of dorsal aorta	14	118	0.00002	0.00062	YES
+post-vent region	25	333	0.00006	0.00145	YES
+hematopoietic system	9	58	0.00008	0.00181	YES
+ball	8	49	0.00013	0.00282	YES
+yolk syncytial layer	37	624	0.00016	0.00306	YES
+epidermal superficial stratum	5	23	0.00065	0.01133	YES
+yolk	10	99	0.00113	0.01825	YES
+vasculature	8	90	0.00754	0.09	YES

@@ -1,0 +1,830 @@
+Pathway,negLogPvalue,Ratio,Zscore,Molecules
+LXR/RXR Activation,2.43,0.0538,-2.236,APOE C3 IL1RL2 LPL MMP9 PTGS2 SAA1
+Tuberculosis Active Signaling Pathway,1.09,0.0286,-1.89,BCL10 C3 C3AR1 CYBA FOS IL1RL2 PTGS2
+IL-27 Signaling Pathway,1.79,0.0451,-1.633,CXCR3 IL1RL2 IRF8 PTGS2 SOCS3 TLR8
+Hepatic Cholestasis,0.891,0.0267,-1.633,ABCB11 CYP8B1 GCG IL1RL2 SLC22A7 TIRAP
+Neutrophil degranulation,8.85,0.0586,-1.512,ACAA1 ADAM8 ADGRE5 ANPEP ARSB C3 C3AR1 CFD CFP CREG1 CSTB CTSS CYBA EEF1A1 EPX GRN GSTP1 IQGAP1 ITGAL LAMTOR1 MMP9 NBEAL2 NPC2 PLAU PTX3 PYGL SERPINB6 TMBIM1
+Degradation of the extracellular matrix,2.11,0.0617,-1.342,ADAM8 CAPN8 CTSK CTSS MMP9
+Acute Phase Response Signaling,1.57,0.0366,-1.342,C3 CFB CP FOS RBP3 SAA1 SOCS3
+Parkinson's Signaling Pathway,0.467,0.0191,-1.342,ERN1 PARK7 TH TLR8 TUBA3E TUBB1
+FXR/RXR Activation,3.69,0.0564,-1.265,ABCB11 APOE CASP8 CYP8B1 G6PC3 GSTP1 LPL MGST2 PTGS2 SLC22A7 SOCS3
+Transport of bile salts and organic acids  metal ions and amine compounds,3.54,0.0833,-1.134,CP RHAG RHCG SLC22A3 SLC22A4 SLC22A7 SLC6A14
+Macrophage Alternative Activation Signaling Pathway,2.02,0.0415,-1.134,FOS IRF4 KLF4 LAMTOR1 LPL MARCO SOCS3 TSC22D3
+ISGylation Signaling Pathway,1.07,0.0367,-1,IRF4 IRF8 ITGAL TLR8
+Th1 Pathway,0.912,0.032,-1,CXCR3 LGALS9 SOCS3 STAT4
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),0.85,0.0303,-1,H2BC21 HUS1 POLH RAD51D
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.842,0.0301,-1,H2BC21 H3C6 LPL PEX11A
+Atherosclerosis Signaling,0.817,0.0294,-1,APOE LPL MMP9 PLA2G4C
+Production of Nitric Oxide and Reactive Oxygen Species in Macrophages,0.478,0.0208,-1,APOE CYBA FOS IRF8
+Docosahexaenoic Acid (DHA) Signaling,0.478,0.0199,-1,CASP8 PLA2G4C PTGS2 SPTBN5 SYT13
+Autophagy,0.368,0.0182,-1,ERN1 FOS GCG MAP1LC3B
+Chromatin modifying enzymes,0,0.0148,-1,H2BC21 H3C6 HDAC10 SETD6
+Class I MHC mediated antigen processing and presentation,1.49,0.0288,-0.905,ASB5 CTSS CYBA ERAP1 ERAP2 KBTBD7 PSMD9 PSME1 SEC23B SOCS3 TIRAP
+Sphingolipid metabolism,2.23,0.0561,-0.816,ARSB ASAH2 GLB1L NEU3 SMPD2 SPTSSB
+Neuroprotective Role of THOP1 in Alzheimer's Disease,1.81,0.0455,-0.816,CFD F7 MMP9 PRSS48 TMPRSS15 TMPRSS2
+G alpha (i) signalling events,0.701,0.0233,-0.816,ANXA1 C3 C3AR1 CXCR3 GABBR1 SAA1
+Histone Modification Signaling Pathway,0.517,0.02,-0.816,CSNK2A1 H1-6 L3MBTL1 MST1 PKD1 SETMAR
+TRIM21 Intracellular Antibody Signaling Pathway,0,0.0105,-0.816,FOS IRF4 IRF8 MAP1LC3B PSMD9 PSME1
+CTLA4 Signaling in Cytotoxic T Lymphocytes,0,0.00982,-0.816,BCL10 FOS IDO2 ITGAL LCP2 PLD6
+Cellular Effects of Sildenafil (Viagra),1.76,0.0263,-0.728,ACKR4 ACVR2B ADGRE5 ADRB3 C3AR1 CAPN8 CASP8 CHRM5 CNGB3 F2RL1 GABBR1 GPR39 GUCY2D HTR2B MYH4 PDE6B PRKG2 SLC9A1
+Hematoma Resolution Signaling Pathway,1.76,0.0349,-0.707,ANXA1 C3 F2RL1 FOS IL20RA MMP28 MMP9 SOCS3 TUBA3E
+RAF/MAP kinase cascade,1.32,0.0304,-0.707,DUSP2 IQGAP1 KBTBD7 PAQR3 PSMD9 PSME1 RALGDS SPTBN5
+Neutrophil Extracellular Trap Signaling Pathway,0.767,0.022,-0.707,CASP8 ITGAL MMP9 PAM16 PLA2G4C TIMM23B TIRAP TLR8 TSPO
+Class A/1 (Rhodopsin-like receptors),2.3,0.0361,-0.577,ACKR4 ADRB3 ANXA1 C3 C3AR1 CHRM5 CXCR3 F2RL1 GPR39 HTR2B SAA1 TSHB
+Necroptosis Signaling Pathway,1.92,0.0432,-0.447,CAPN8 CASP8 PAM16 PLA2G4C PYGL TIMM23B TSPO
+Phase II - Conjugation of compounds,1.57,0.045,-0.447,GSTP1 MGST2 SULT1C2 SULT1C4 SULT2B1
+Signaling by NOTCH4,1.17,0.035,-0.447,HES5 PSMD9 PSME1 STK33 WHR1
+NAD Signaling Pathway,1.09,0.0331,-0.447,ERN1 H1-6 PARP12 SLC29A1 SLC29A2
+Systemic Lupus Erythematosus in T Cell Signaling Pathway,0,0.00775,-0.447,CASP8 CREM FOS IRF4 ITGAL
+Complement cascade,2.27,0.0504,-0.378,C3 C3AR1 CFB CFD CFH CFP MASP2
+G alpha (q) signalling events,1.76,0.0402,-0.378,ANXA1 CHRM5 F2RL1 GCG GPR39 HTR2B SAA1
+Neurovascular Coupling Signaling Pathway,1.18,0.0299,-0.378,CHRM5 ENTPD3 GABBR1 GUCY2D PLA2G4C PRKG2 PTGS2
+Stress Granule Signaling Pathway,0.916,0.0257,-0.378,CSNK2A1 EIF3H ERN1 GADD45B HDAC10 PTGS2 RALGDS
+Chaperone Mediated Autophagy Signaling Pathway,0,0.011,-0.378,EEF1A1 HDAC10 MMP28 MMP9 MST1 PARK7 PSME1
+Sheddase Signaling Pathway,3.52,0.0539,-0.302,ACKR4 ADAM8 CCN1 F2RL1 FOS IGFBP1 MMP28 MMP9 PLAU TMPRSS15 TMPRSS2
+BBSome Signaling Pathway,1.41,0.0264,-0.277,ACKR4 ADGRE5 ADRB3 C3AR1 CHRM5 ERN1 F2RL1 GABBR1 GPR39 HTR2B IQCB1 PKD1 TTC8
+Complement System,4.6,0.154,0,C3 C3AR1 CFB CFD CFH MASP2
+Post-translational protein phosphorylation,3.64,0.0748,0,APOE C3 CCN1 CP FAM20A IGFBP1 LGALS1 WFS1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by IGFBPs,3.21,0.0645,0,APOE C3 CCN1 CP FAM20A IGFBP1 LGALS1 WFS1
+Multiple Sclerosis Signaling Pathway,2.19,0.0411,0,C3 CAPN8 CASP8 IRF4 MMP9 P2RX7 PARP12 PLAU TLR8
+Membrane Repair Signaling Pathway,2.17,0.0545,0,ANXA1 CAPN8 CD151 MYH4 S100A10 SYT13
+Phototransduction Pathway,1.99,0.0714,0,CNGB3 GUCY2D PDE6B RCVRN
+Response to elevated platelet cytosolic Ca2+,1.81,0.0455,0,CFD CLEC3B LGALS3BP RAB27B SCCPDH SELENOP
+Protein Kinase A Signaling,1.71,0.0301,0,CNGB3 CREM DUSP2 GDE1 H1-6 MTMR7 MYH4 PDE6B PLD6 PTGS2 PYGL TH
+Phagosome Formation,1.63,0.0255,0,ACKR4 ADGRE5 ADRB3 BCL10 C3 C3AR1 CHRM5 F2RL1 GABBR1 GPR39 HTR2B ITGAL MARCO MYH4 PLA2G4C PLD6 RAPGEF3 TLR8
+IL-12 Signaling and Production in Macrophages,1.49,0.0329,0,APOE C3 CXCR3 FOS IRF8 MST1 SOCS3 STAT4
+JAK/STAT Signaling,1.43,0.0482,0,CISH FOS SOCS3 STAT4
+Meiotic recombination,1.36,0.046,0,H2BC21 H3C6 MSH4 MSH5
+Leukocyte Extravasation Signaling,1.12,0.0309,0,CYBA F11R ITGAL MMP28 MMP9 RAPGEF3
+Beta-catenin independent WNT signaling,1.02,0.0291,0,PDE6B PRKG2 PSMD9 PSME1 STK33 WHR1
+MSP-RON Signaling in Macrophages Pathway,0.959,0.0333,0,FOS MST1 PTGS2 SOCS3
+Amyloid fiber formation,0.921,0.0323,0,APOE H2BC21 H3C6 SAA1
+Glycosaminoglycan metabolism,0.893,0.0315,0,ARSB CHST6 GLB1L SLC9A1
+MHC class II antigen presentation,0.885,0.0312,0,CTSK CTSS TUBA3E TUBB1
+IL-6 Signaling,0.876,0.031,0,CSNK2A1 FOS IL1RL2 SOCS3
+TCF dependent signaling in response to WNT,0.822,0.0254,0,CSNK2A1 H2BC21 H3C6 PSMD9 PSME1 SFRP1
+Gene Silencing by RNA,0.793,0.0288,0,BCDIN3D H2BC21 H3C6 PLD6
+Th2 Pathway,0.778,0.0284,0,ACVR2B IKZF1 SOCS3 STAT4
+DNA Replication Pre-Initiation,0.77,0.0282,0,H2BC21 H3C6 PSMD9 PSME1
+G alpha (s) signalling events,0.748,0.0276,0,ADRB3 GCG GPR39 TSHB
+Hedgehog 'on' state,0.748,0.0276,0,PSMD9 PSME1 STK33 WHR1
+IL-10 Signaling,0.679,0.0258,0,BLVRB FOS IL1RL2 SOCS3
+p75 NTR receptor-mediated signalling,0.66,0.0253,0,ARHGEF3 SMPD2 STK33 WHR1
+Epithelial Adherens Junction Signaling,0.66,0.0253,0,ACVR2B IQGAP1 MST1 MYH4
+Microautophagy Signaling Pathway,0.641,0.0248,0,MAP1LC3B PSMD9 PSME1 SEC23B
+ERK/MAPK Signaling,0.615,0.0227,0,DUSP2 FOS ITGAL PLA2G4C RAPGEF3
+Mitochondrial Dysfunction,0.579,0.0205,0,ADRB3 CAPN8 CP GSTP1 MGST2 PARK7 RAPGEF3
+Irritable Bowel Syndrome Signaling Pathway,0.56,0.0208,0,IL1RL2 ITLN1 MMP28 MMP9 SLC22A4 TLR8
+Gustation Pathway,0.404,0.019,0,GCG LPL P2RX7 SCN4A
+Glutaminergic Receptor Signaling Pathway (Enhanced),0,0.0123,0,GABBR1 PLA2G4C PLD6 SCN4A
+Cell Cycle Checkpoints,0,0.0137,0,H2BC21 HUS1 PSMD9 PSME1
+T Cell Exhaustion Signaling Pathway,0,0.0088,0,ACVR2B FOS IRF4 LGALS9 STAT4
+CREB Signaling in Neurons,0,0.0146,0.333,ACKR4 ADGRE5 ADRB3 C3AR1 CHRM5 F2RL1 GABBR1 GPR39 HTR2B
+D-myo-inositol (1 4 5 6)-Tetrakisphosphate Biosynthesis,2.06,0.0421,0.378,ACP5 DUSP2 G6PC3 MTMR7 NUDT1 NUDT15 PPFIBP2 SOCS3
+D-myo-inositol (3 4 5 6)-tetrakisphosphate Biosynthesis,2.06,0.0421,0.378,ACP5 DUSP2 G6PC3 MTMR7 NUDT1 NUDT15 PPFIBP2 SOCS3
+KEAP1-NFE2L2 pathway,2.05,0.0458,0.378,CSNK2A1 MAFK MAP1LC3B PSMD9 PSME1 STK33 WHR1
+3-phosphoinositide Degradation,1.92,0.0398,0.378,ACP5 DUSP2 G6PC3 MTMR7 NUDT1 NUDT15 PPFIBP2 SOCS3
+D-myo-inositol-5-phosphate Metabolism,1.88,0.039,0.378,ACP5 DUSP2 G6PC3 MTMR7 NUDT1 NUDT15 PPFIBP2 SOCS3
+3-phosphoinositide Biosynthesis,1.77,0.0374,0.378,ACP5 DUSP2 G6PC3 MTMR7 NUDT1 NUDT15 PPFIBP2 SOCS3
+Role of Osteoblasts in Rheumatoid Arthritis Signaling Pathway,1.51,0.0333,0.378,ACVR2B CTSK CTSS MMP28 MMP9 PTGS2 SFRP1 STAT4
+Superpathway of Inositol Phosphate Compounds,1.51,0.0333,0.378,ACP5 DUSP2 G6PC3 MTMR7 NUDT1 NUDT15 PPFIBP2 SOCS3
+Neddylation,1.08,0.0283,0.378,ANKRD9 ASB5 CISH KBTBD7 PSMD9 PSME1 SOCS3
+Oxytocin Signaling Pathway,0.831,0.0244,0.378,FOS GUCY2D LPL MYH4 PLA2G4C PRKG2 PTGS2
+Interferon gamma signaling,1.77,0.051,0.447,GBP1 GBP6 IRF4 IRF8 SOCS3
+Endothelin-1 Signaling,1.12,0.0309,0.447,CASP8 FOS GUCY2D PLA2G4C PLD6 PTGS2
+Glycation Signaling Pathway,0.591,0.0222,0.447,EGR1 ERN1 FOS MMP9 TIRAP
+Gap Junction Signaling,0.4,0.0179,0.447,GUCY2D HTR2B PLA2G4C PRKG2 TUBA3E TUBB1
+Myelination Signaling Pathway,0.252,0.0152,0.447,ACVR2B FOS HDAC10 HES5 RAPGEF3
+NF-κB Signaling,0,0.00874,0.447,BCL10 CASP8 CSNK2A1 TIRAP TLR8
+Lung Ionic Balance Signaling Pathway,0.568,0.0192,0.632,ACKR4 ADGRE5 ADRB3 C3AR1 CHRM5 CNGB3 F2RL1 GABBR1 GPR39 HTR2B
+NF1 RAS Signaling Pathway,0.519,0.0186,0.632,ACKR4 ADGRE5 ADRB3 C3AR1 CHRM5 F2RL1 GABBR1 GPR39 HTR2B RALGDS
+Transcriptional regulation by RUNX1,2.06,0.0421,0.707,CSNK2A1 CTSK GATA1 H2BC21 H3C6 PSMD9 PSME1 SOCS3
+PTEN Regulation,1.55,0.0397,0.816,CSNK2A1 EGR1 LAMTOR1 PSMD9 PSME1 RRAGD
+Cilium Assembly,1.04,0.0294,0.816,IQCB1 PKD1 RP2 TTC8 TUBA3E TUBB1
+Phospholipase C Signaling,0,0.0071,0.816,ARHGEF3 HDAC10 ITGAL LCP2 PLA2G4C PLD6 RALGDS RAPGEF3
+Sertoli Cell-Germ Cell Junction Signaling Pathway (Enhanced),1.99,0.0381,1,F11R FOS FOSB FOSL1 IGSF5 IL1RL2 IQGAP1 MMP9 PRKG2
+Visual phototransduction,1.89,0.0667,1,GUCY2D PDE6B RBP3 RCVRN
+Neuroinflammation Signaling Pathway,1.53,0.0304,1,ACVR2B CASP8 FOS GABBR1 MMP9 P2RX7 PLA2G4C PTGS2 TIRAP TLR8
+Interferon alpha/beta signaling,1.53,0.0519,1,EGR1 IRF4 IRF8 SOCS3
+Sirtuin Signaling Pathway,1.08,0.027,1,GADD45B H1-6 MAP1LC3B MLYCD PAM16 TIMM23B TSPO TUBA3E
+Senescence-Associated Secretory Phenotype (SASP),1.05,0.036,1,FOS H2BC21 H3C6 RPS6KA2
+TCR signaling,0.893,0.0315,1,BCL10 LCP2 PSMD9 PSME1
+Pathogen Induced Cytokine Storm Signaling Pathway,0.89,0.0236,1,C3 CASP8 CXCR3 FOS IL1RL2 P2RX7 SOCS3 STAT4 TLR8
+Adipogenesis pathway,0.801,0.029,1,ACVR2B CEBPD HDAC10 LPL
+IL-33 Signaling Pathway,0.756,0.0256,1,CASP8 CELA2A FOS MMP9 PTGS2
+C-type lectin receptors (CLRs),0.741,0.0274,1,BCL10 CASP8 PSMD9 PSME1
+Adrenomedullin signaling pathway,0.713,0.0248,1,C3 CFH FOS GUCY2D PRKG2
+ID1 Signaling Pathway,0.708,0.0246,1,ACVR2B CHRM5 EGR1 MMP9 PARK7
+ESR-mediated signaling,0.679,0.0258,1,FOS FOSB H2BC21 H3C6
+HEY1 Signaling Pathway,0.641,0.0248,1,ACVR2B GATA1 MMP28 MMP9
+Nuclear Cytoskeleton Signaling Pathway,0.605,0.0225,1,CSNK2A1 EGR1 ITGAL TUBA3E TUBB1
+WNT/β-catenin Signaling,0.572,0.0231,1,ACVR2B CSNK2A1 DKK3 SFRP1
+Hepatitis B Chronic Liver Pathogenesis Signaling Pathway,0.496,0.0213,1,EGR1 KLF4 MMP9 SOCS3
+Cyclophilin Signaling Pathway,0.494,0.0202,1,APOE MMP9 PAM16 TIMM23B TSPO
+Sertoli Cell-Sertoli Cell Junction Signaling,0.494,0.0202,1,F11R IGSF5 IL1RL2 TUBA3E TUBB1
+Mitotic G2-G2/M phases,0.416,0.0193,1,PSMD9 PSME1 TUBA3E TUBB1
+Zn Homeostasis Signaling Pathway,0.415,0.0166,1,ACKR4 ADGRE5 ADRB3 ANXA1 C3AR1 CHRM5 CYBA EGR1 F2RL1 GABBR1 GDE1 GPR39 HTR2B MMP28 MMP9 PDE6B PLD6 SLC9A1
+Signaling by Rho Family GTPases,0.413,0.0186,1,ARHGEF3 FOS IQGAP1 ITGAL SLC9A1
+FAK Signaling,0.394,0.0164,1,ACKR4 ACVR2B ADGRE5 ADRB3 C3AR1 CAPN8 CHRM5 F2RL1 FOS GABBR1 GPR39 HTR2B IL1RL2 IL20RA ITGAL MMP9 SOCS3
+Mitotic Metaphase and Anaphase,0.314,0.0169,1,PSMD9 PSME1 TUBA3E TUBB1
+T Cell Receptor Signaling,0,0.00643,1,BCL10 FOS ITGAL LCP2
+Systemic Lupus Erythematosus in B Cell Signaling Pathway,0,0.00549,1,BCL10 FOS PIM2 TLR8
+G-Protein Coupled Receptor Signaling,0.897,0.0211,1.069,ACKR4 ADGRE5 ADRB3 C3AR1 CHRM5 CNGB3 F2RL1 FOS GABBR1 GDE1 GPR39 HTR2B PDE6B PLD6 RAPGEF3
+cAMP-mediated signaling,1.93,0.0373,1.134,ADRB3 CHRM5 CNGB3 CREM GABBR1 GDE1 PDE6B PLD6 RAPGEF3
+Tumor Microenvironment Pathway,1.69,0.0389,1.134,FOS IDO2 LGALS9 MMP28 MMP9 PLAU PTGS2
+Role of Osteoclasts in Rheumatoid Arthritis Signaling Pathway,1.28,0.0285,1.134,ACP5 ADAM8 CTSK FOS IL1RL2 LCP2 MMP28 MMP9 SFRP1
+Serotonin Receptor Signaling,0.739,0.0212,1.265,ADRB3 G6PC3 HTR2B MAP1LC3B MMP9 PLA2G4C PLD6 PTGS2 RAPGEF3 TGM1
+Sleep REM Signaling Pathway,2.7,0.0847,1.342,CHRM5 EGR1 FOS GADD45B RPS6KA2
+Iron uptake and transport,2.67,0.0833,1.342,CP CYBRD1 STEAP3 TFR2 TFRC
+ER-Mitochondrial Communication Signaling Pathway,2.09,0.061,1.342,ADRB3 CASP8 CSNK2A1 ERN1 ESYT1
+Factors involved in megakaryocyte development and platelet production,1.61,0.0463,1.342,DOCK11 GATA1 H3C6 HBE1 MAFK
+Osteoarthritis Pathway,1.15,0.0294,1.342,CASP8 IL1RL2 ITGAL ITLN1 MMP9 P2RX7 PTGS2
+IL-8 Signaling,1.01,0.0288,1.342,CSTB FOS IQGAP1 MMP9 PLD6 PTGS2
+Neuropeptides in Migraine Signaling Pathway,0.923,0.0292,1.342,FOS GUCY2D HTR2B PRKG2 RAPGEF3
+Pancreatic Secretion Signaling Pathway,0.776,0.0246,1.342,AMY2A ARHGEF3 CA13 LPL RAPGEF3 SLC9A1
+Fc epsilon receptor (FCERI) signaling,0.668,0.0238,1.342,BCL10 FOS LCP2 PSMD9 PSME1
+Wound Healing Signaling Pathway,0.486,0.0201,1.342,ACVR2B FOS IL1RL2 MMP9 MST1
+Chronic Myeloid Leukemia Signaling,0.374,0.0178,1.342,FOS HDAC10 IRF8 KLF4 MMP9
+Hepatic Fibrosis Signaling Pathway,0,0.0144,1.342,ACVR2B FOS IL1RL2 ITGAL TFRC TIRAP
+Cachexia Signaling Pathway,2.74,0.0375,1.387,ACVR2B ADRB3 CAPN8 CASP8 CEBPD ERN1 IL1RL2 LPL MAP1LC3B PSMD9 PSME1 SOCS3 STAT4 TLR8
+NAFLD Signaling Pathway,1.67,0.0357,1.414,CASP8 ERN1 FOS G6PC3 P2RX7 PTGS2 SOCS3 TLR8
+Role of Macrophages  Fibroblasts and Endothelial Cells in Rheumatoid Arthritis,0.842,0.0237,1.414,CEBPD DKK3 F2RL1 FOS IL1RL2 SFRP1 SOCS3 TLR8
+RHO GTPase cycle,0.427,0.0178,1.414,ARHGEF3 CYBA DOCK11 ESYT1 IQGAP1 LAMTOR1 STEAP3 TFRC
+S100 Family Signaling Pathway,0.853,0.0205,1.5,ACKR4 ADGRE5 ADRB3 ANXA1 C3AR1 CHRM5 F2RL1 FOS GABBR1 GPR39 HTR2B IQGAP1 MMP28 MMP9 PLA2G4C S100A10
+L1CAM interactions,1.95,0.0488,1.633,CSNK2A1 RPS6KA2 SCN4A SPTBN5 TUBA3E TUBB1
+Eicosanoid Signaling,0.864,0.0249,1.633,EGR1 KLF4 PLA2G4C PTGS2 RAPGEF3 RPS6KA2 TBXAS1
+RAR Activation,1.79,0.0299,1.732,ACVR2B CNGB3 CSNK2A1 F11R FOS GDE1 MMP9 PDE6B PLAU PLD6 RBP3 RPS6KA2 SOCS3
+Pulmonary Fibrosis Idiopathic Signaling Pathway,0.643,0.0215,1.89,ACVR2B EGR1 FOS MMP28 MMP9 PLAU RPS6KA2
+NGF-stimulated transcription,2.55,0.103,2,EGR1 FOS FOSB FOSL1
+ABRA Signaling Pathway,1.35,0.0455,2,EGR1 FOS FOSB MMP9
+Erythropoietin Signaling Pathway,0.849,0.0276,2,EPOR FOS GATA1 HBE1 HBZ
+SLAMF Signaling Pathway,0,0.0041,2,BCL10 FOS LCP2 SH2D1B
+Interleukin-4 and Interleukin-13 signaling,3.53,0.0721,2.121,ANXA1 CEBPD FOS IRF4 MMP9 PTGS2 SAA1 SOCS3
+Activin Inhibin Signaling Pathway,1.78,0.0376,2.121,ACVR2B EPOR FOS FOSB FOSL1 IL1RL2 PTGS2 TLR8
+Heme Biosynthesis II,7.03,0.556,2.236,ALAS2 FECH HMBS PPOX UROD
+Metabolism of porphyrins,4.4,0.192,2.236,ALAS2 BLVRB FECH PPOX UROD
+Role of Chondrocytes in Rheumatoid Arthritis Signaling Pathway,3.44,0.0625,2.333,CASP8 CEBPD EGR1 FOS IL1RL2 MMP28 MMP9 PLAU PTGS2
+Coronavirus Pathogenesis Pathway,0.817,0.0253,2.449,CASP8 EEF1A1 FOS HDAC10 PTGS2 TMPRSS2
+Cardiac Hypertrophy Signaling (Enhanced),0.369,0.0168,2.449,ACVR2B GDE1 HDAC10 IL1RL2 IL20RA ITGAL PDE6B PLD6 PTGS2
+Heme Biosynthesis from Uroporphyrinogen-III I,4.86,0.75,#NUM!,FECH PPOX UROD
+Iron homeostasis signaling pathway,4.11,0.069,#NUM!,ALAS2 CP CYBRD1 FECH HBE1 HBZ SLC25A37 STEAP3 TFR2 TFRC
+Fructose metabolism,3.94,0.429,#NUM!,ALDOB KHK SORD
+Proline catabolism,3.17,0.667,#NUM!,PRODH PRODH2
+Proline Degradation,3.17,0.667,#NUM!,PRODH PRODH2
+Trafficking and processing of endosomal TLR,3.05,0.231,#NUM!,CTSK CTSS TLR8
+Dissolution of Fibrin Clot,3.05,0.231,#NUM!,PLAU S100A10 SERPINB6
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX),2.86,0.2,#NUM!,CYP8B1 PTGS2 TBXAS1
+Platelet Adhesion to exposed collagen,2.78,0.188,#NUM!,ADAMTS13 GP1BB GP9
+Glutaryl-CoA Degradation,2.78,0.188,#NUM!,L3HYPDH PARK7 TBXAS1
+Superpathway of Citrulline Metabolism,2.78,0.188,#NUM!,ASS1 PRODH PRODH2
+Formation of xylulose-5-phosphate,2.65,0.4,#NUM!,DCXR SORD
+Tetrapyrrole Biosynthesis II,2.65,0.4,#NUM!,ALAS2 HMBS
+Protein repair,2.48,0.333,#NUM!,MSRB1 MSRB2
+tRNA Splicing,2.32,0.0889,#NUM!,GDE1 PDE6B PLD6 TSEN15
+Azathioprine ADME,2.31,0.13,#NUM!,NUDT15 SLC29A1 SLC29A2
+Tryptophan Degradation III (Eukaryotic),2.31,0.13,#NUM!,L3HYPDH PARK7 TBXAS1
+NFE2L2 regulating MDR associated enzymes,2.22,0.25,#NUM!,ABCF2 MAFK
+Sucrose Degradation V (Mammalian),2.22,0.25,#NUM!,ALDOB KHK
+Interleukin-20 family signaling,2.16,0.115,#NUM!,IL20RA SOCS3 STAT4
+Glutathione-mediated Detoxification,2.13,0.0784,#NUM!,ANPEP Gsta4 GSTP1 MGST2
+Peroxisomal lipid metabolism,2.03,0.103,#NUM!,ACAA1 ACBD4 MLYCD
+Prostanoid Biosynthesis,2.02,0.2,#NUM!,PTGS2 TBXAS1
+Citrulline Biosynthesis,2.02,0.2,#NUM!,PRODH PRODH2
+Glycine Betaine Degradation,2.02,0.2,#NUM!,DMGDH SDSL
+Glutathione Redox Reactions I,1.94,0.0968,#NUM!,CP GSTP1 MGST2
+Serine metabolism,1.94,0.182,#NUM!,SDSL SERINC4
+RHO GTPases activate IQGAPs,1.91,0.0938,#NUM!,IQGAP1 TUBA3E TUBB1
+GP1b-IX-V activation signalling,1.86,0.167,#NUM!,GP1BB GP9
+Thiamin Salvage III,1.82,1,#NUM!,TPK1
+Sorbitol Degradation I,1.82,1,#NUM!,SORD
+4-hydroxybenzoate Biosynthesis,1.82,1,#NUM!,TAT
+4-hydroxyphenylpyruvate Biosynthesis,1.82,1,#NUM!,TAT
+Nucleotide catabolism,1.8,0.0857,#NUM!,ENTPD3 NUDT1 NUDT15
+Platelet Aggregation (Plug Formation),1.8,0.154,#NUM!,GP1BB GP9
+Formation of Fibrin Clot (Clotting Cascade),1.68,0.0769,#NUM!,F7 GP1BB GP9
+IGF-1 Signaling,1.66,0.0476,#NUM!,CCN1 CSNK2A1 FOS IGFBP1 SOCS3
+Aggrephagy,1.54,0.0682,#NUM!,PARK7 TUBA3E TUBB1
+Metabolism of amine-derived hormones,1.52,0.111,#NUM!,TH TSHB
+Alanine metabolism,1.52,0.5,#NUM!,GPT
+Alanine Degradation III,1.52,0.5,#NUM!,GPT
+Alanine Biosynthesis II,1.52,0.5,#NUM!,GPT
+Fatty Acid Biosynthesis Initiation II,1.52,0.5,#NUM!,OXSM
+Glycine Degradation (Creatine Biosynthesis),1.52,0.5,#NUM!,GAMT
+Carboxyterminal post-translational modifications of tubulin,1.51,0.0667,#NUM!,TTLL12 TUBA3E TUBB1
+Relaxin Signaling,1.49,0.0385,#NUM!,FOS GDE1 GUCY2D MMP9 PDE6B PLD6
+Arachidonate metabolism,1.49,0.0652,#NUM!,CYP1B1 PTGR1 PTGS2
+MIF Regulation of Innate Immunity,1.49,0.0652,#NUM!,FOS PLA2G4C PTGS2
+Glyoxylate metabolism and glycine degradation,1.48,0.105,#NUM!,DAO PRODH2
+Role of JAK family kinases in IL-6-type Cytokine Signaling,1.46,0.0494,#NUM!,CEBPD FOS SERPINA9 SOCS3
+Synthesis  secretion  and deacylation of Ghrelin,1.44,0.1,#NUM!,GCG KLF4
+Pyruvate metabolism,1.42,0.0612,#NUM!,GPT ME1 PDK2
+LPS/IL-1 Mediated Inhibition of RXR Function,1.41,0.0302,#NUM!,ABCB11 ACAA1 APOE GSTP1 IL1RL2 MGST2 SULT1C2 SULT1C4 SULT2B1
+Pancreatic Adenocarcinoma Signaling,1.38,0.04,#NUM!,HDAC10 MMP9 PLD6 PTGS2 RALGDS
+Chaperone Mediated Autophagy,1.36,0.0909,#NUM!,EEF1A1 PARK7
+Threonine catabolism,1.35,0.333,#NUM!,SDSL
+NFE2L2 regulating TCA cycle genes,1.35,0.333,#NUM!,ME1
+Palmitate Biosynthesis I (Animals),1.35,0.333,#NUM!,OXSM
+L-serine Degradation,1.35,0.333,#NUM!,SDSL
+Tumoricidal Function of Hepatic Natural Killer Cells,1.29,0.0833,#NUM!,CASP8 ITGAL
+Inflammasome pathway,1.29,0.0833,#NUM!,CASP8 P2RX7
+Th1 and Th2 Activation Pathway,1.28,0.0341,#NUM!,ACVR2B CXCR3 IKZF1 LGALS9 SOCS3 STAT4
+Heparan Sulfate Biosynthesis (Late Stages),1.27,0.043,#NUM!,EXTL3 SULT1C2 SULT1C4 SULT2B1
+FAT10 Signaling Pathway,1.27,0.0536,#NUM!,MAP1LC3B PSMD9 PSME1
+Metabolism of cofactors,1.26,0.08,#NUM!,COQ7 PRKG2
+Growth hormone receptor signaling,1.26,0.08,#NUM!,CISH SOCS3
+TNF signaling,1.26,0.0526,#NUM!,CASP8 SMPD2 SPPL2B
+Heme Degradation,1.23,0.25,#NUM!,BLVRB
+Catecholamine Biosynthesis,1.23,0.25,#NUM!,TH
+D-glucuronate Degradation I,1.23,0.25,#NUM!,DCXR
+Proline Biosynthesis I,1.23,0.25,#NUM!,PYCR2
+Oxidized GTP and dGTP Detoxification,1.23,0.25,#NUM!,NUDT1
+Role of Osteoblasts  Osteoclasts and Chondrocytes in Rheumatoid Arthritis,1.22,0.0306,#NUM!,ACP5 ACVR2B CTSK DKK3 FOS IL1RL2 SFRP1
+UVA-Induced MAPK Signaling,1.21,0.0408,#NUM!,FOS PARP12 RPS6KA2 SMPD2
+Cytoprotection by HMOX1,1.2,0.05,#NUM!,BLVRB MAFK PTK6
+Dermatan Sulfate Biosynthesis (Late Stages),1.2,0.05,#NUM!,SULT1C2 SULT1C4 SULT2B1
+Assembly of collagen fibrils and other multimeric structures,1.18,0.0492,#NUM!,CD151 CTSS MMP9
+Heparan Sulfate Biosynthesis,1.18,0.04,#NUM!,EXTL3 SULT1C2 SULT1C4 SULT2B1
+MTOR signalling,1.17,0.0714,#NUM!,LAMTOR1 RRAGD
+Pregnenolone Biosynthesis,1.17,0.0714,#NUM!,COQ7 CYP1B1
+Pyroptosis Signaling Pathway,1.16,0.0392,#NUM!,CASP8 GBP1 P2RX7 TLR8
+Chondroitin Sulfate Biosynthesis (Late Stages),1.15,0.0476,#NUM!,SULT1C2 SULT1C4 SULT2B1
+Energy dependent regulation of mTOR by LKB1-AMPK,1.15,0.069,#NUM!,LAMTOR1 RRAGD
+Paracetamol ADME,1.15,0.069,#NUM!,GSTP1 SULT1C4
+Gluconeogenesis I,1.15,0.069,#NUM!,ALDOB ME1
+Histidine Degradation VI,1.15,0.069,#NUM!,COQ7 CYP1B1
+Peroxisomal protein import,1.13,0.0469,#NUM!,ACAA1 DAO MLYCD
+Melanin biosynthesis,1.13,0.2,#NUM!,OCA2
+FasL/ CD95L signaling,1.13,0.2,#NUM!,CASP8
+Signaling by MST1,1.13,0.2,#NUM!,MST1
+NFE2L2 regulating ER-stress associated genes,1.13,0.2,#NUM!,MAFK
+Phosphorylation and nuclear translocation of BMAL1 (ARNTL) and CLOCK,1.13,0.2,#NUM!,CSNK2A1
+Proline Biosynthesis II (from Arginine),1.13,0.2,#NUM!,PYCR2
+Citrulline-Nitric Oxide Cycle,1.13,0.2,#NUM!,ASS1
+Galactose Degradation I (Leloir Pathway),1.13,0.2,#NUM!,GALK2
+Tyrosine Degradation I,1.13,0.2,#NUM!,TAT
+Role of JAK2 in Hormone-like Cytokine Signaling,1.12,0.0462,#NUM!,EPOR FOS SOCS3
+Abacavir ADME,1.09,0.0448,#NUM!,SLC22A3 STK33 WHR1
+Ribavirin ADME,1.09,0.0448,#NUM!,SLC29A1 STK33 WHR1
+Phospholipases,1.07,0.0441,#NUM!,LPL PLA2G4C PLD6
+Macroautophagy,1.06,0.0435,#NUM!,LAMTOR1 MAP1LC3B RRAGD
+Biosynthesis of Lipoxins (LX),1.06,0.167,#NUM!,PTGR1
+Choline catabolism,1.06,0.167,#NUM!,DMGDH
+NFE2L2 regulating inflammation associated genes,1.06,0.167,#NUM!,MAFK
+Arginine Biosynthesis IV,1.06,0.167,#NUM!,ASS1
+Glycine Cleavage Complex,1.06,0.167,#NUM!,OCA2
+Activation of Matrix Metalloproteinases,1.05,0.0606,#NUM!,CTSK MMP9
+MAPK targets/ Nuclear events mediated by MAP kinases,1.05,0.0606,#NUM!,FOS RPS6KA2
+Airway Inflammation in Asthma,1.05,0.0606,#NUM!,EPX MMP9
+Ubiquinol-10 Biosynthesis (Eukaryotic),1.05,0.0606,#NUM!,COQ7 CYP1B1
+Stearate Biosynthesis I (Animals),1.04,0.0429,#NUM!,OSGEPL1 PTGR1 TBXAS1
+Granulocyte Adhesion and Diapedesis,1.03,0.0293,#NUM!,ACKR4 C3 CXCR3 IL1RL2 MMP28 MMP9
+Chondroitin Sulfate Biosynthesis,1.03,0.0423,#NUM!,SULT1C2 SULT1C4 SULT2B1
+Remodeling of Epithelial Adherens Junctions,1.03,0.0423,#NUM!,IQGAP1 TUBA3E TUBB1
+Oxytocin in Spinal Neurons Signaling Pathway,1.01,0.0571,#NUM!,GUCY2D PRKG2
+Transcriptional Regulation by NPAS4,1.01,0.0571,#NUM!,FOS NPAS4
+Coagulation System,1.01,0.0571,#NUM!,F7 PLAU
+IL-9 Signaling,1.01,0.0571,#NUM!,CISH SOCS3
+Growth Hormone Signaling,1,0.0411,#NUM!,FOS RPS6KA2 SOCS3
+Dermatan Sulfate Biosynthesis,1,0.0411,#NUM!,SULT1C2 SULT1C4 SULT2B1
+TYSND1 cleaves peroxisomal proteins,0.994,0.143,#NUM!,ACAA1
+Urea Cycle,0.994,0.143,#NUM!,ASS1
+Arginine Degradation VI (Arginase 2 Pathway),0.994,0.143,#NUM!,PYCR2
+Ceramide Degradation,0.994,0.143,#NUM!,ASAH2
+Thioredoxin Signaling Pathway,0.99,0.0405,#NUM!,C3 CFB FOS
+ERK5 Signaling,0.99,0.0405,#NUM!,FOS FOSL1 RPS6KA2
+Antioxidant Action of Vitamin C,0.989,0.0342,#NUM!,PLA2G4C PLD6 SLC23A1 SLC23A3
+Detoxification of Reactive Oxygen Species,0.966,0.0541,#NUM!,CYBA GSTP1
+Fatty acyl-CoA biosynthesis,0.966,0.0541,#NUM!,ELOVL7 HSD17B8
+Gene and protein expression by JAK-STAT signaling after IL-12 stimulation,0.966,0.0541,#NUM!,LCP1 STAT4
+Plasma lipoprotein assembly  remodeling  and clearance,0.964,0.0395,#NUM!,APOE LPL NPC2
+Toll-like Receptor Signaling,0.951,0.039,#NUM!,FOS TIRAP TLR8
+MIF-mediated Glucocorticoid Regulation,0.947,0.0526,#NUM!,PLA2G4C PTGS2
+Inhibition of Matrix Metalloproteases,0.947,0.0526,#NUM!,MMP28 MMP9
+TRAIL signaling,0.939,0.125,#NUM!,CASP8
+Miro GTPase Cycle,0.939,0.125,#NUM!,TRAK2
+Regulation of NFE2L2 gene expression,0.939,0.125,#NUM!,MAFK
+Glycosphingolipid transport,0.939,0.125,#NUM!,ESYT1
+Ceramide Biosynthesis,0.939,0.125,#NUM!,SPTSSB
+Sphingomyelin Metabolism,0.939,0.125,#NUM!,SMPD2
+Meiotic synapsis,0.939,0.0385,#NUM!,H2BC21 SYCE3 SYCP3
+VDR/RXR Activation,0.939,0.0385,#NUM!,CSNK2A1 IGFBP1 KLF4
+Mitophagy,0.91,0.05,#NUM!,CSNK2A1 MAP1LC3B
+Dopamine Degradation,0.91,0.05,#NUM!,SULT1C2 SULT1C4
+Gαs Signaling,0.893,0.0315,#NUM!,ADRB3 CHRM5 CNGB3 RAPGEF3
+Interleukin-7 signaling,0.893,0.0488,#NUM!,CISH H3C6
+Pyrimidine Ribonucleotides Interconversion,0.893,0.0488,#NUM!,ENTPD3 NUDT15
+Metabolism of water-soluble vitamins and cofactors,0.891,0.0366,#NUM!,ACP5 SLC23A1 TPK1
+Agranulocyte Adhesion and Diapedesis,0.891,0.0267,#NUM!,ACKR4 C3 CXCR3 MMP28 MMP9 MYH4
+Erythrocytes take up oxygen and release carbon dioxide,0.891,0.111,#NUM!,RHAG
+Pathogenesis of Multiple Sclerosis,0.891,0.111,#NUM!,CXCR3
+Sphingosine and Sphingosine-1-phosphate Metabolism,0.891,0.111,#NUM!,ASAH2
+Transcriptional regulation of white adipocyte differentiation,0.869,0.0357,#NUM!,CEBPD KLF4 LPL
+Transport of vitamins  nucleosides  and related molecules,0.859,0.0465,#NUM!,SLC29A1 SLC29A2
+Acetone Degradation I (to Methylglyoxal),0.859,0.0465,#NUM!,CYP1B1 PTGR1
+Activation of NMDA receptors and postsynaptic events,0.858,0.0353,#NUM!,RPS6KA2 TUBA3E TUBB1
+Melatonin Degradation I,0.858,0.0353,#NUM!,CYP1B1 SULT1C2 SULT1C4
+Urea cycle,0.849,0.1,#NUM!,ASS1
+Creatine metabolism,0.849,0.1,#NUM!,GAMT
+Glycogen Degradation II,0.849,0.1,#NUM!,PYGL
+γ-glutamyl Cycle,0.849,0.1,#NUM!,ANPEP
+BAG2 Signaling Pathway,0.847,0.0349,#NUM!,BAG2 PSMD9 PSME1
+TAK1-dependent IKK and NF-kappa-B activation,0.843,0.0455,#NUM!,CASP8 SAA1
+Assembly and cell surface presentation of NMDA receptors,0.843,0.0455,#NUM!,TUBA3E TUBB1
+Retinoid metabolism and transport,0.843,0.0455,#NUM!,APOE LPL
+Pyrimidine Ribonucleotides De Novo Biosynthesis,0.843,0.0455,#NUM!,ENTPD3 NUDT15
+Bile acid and bile salt metabolism,0.828,0.0444,#NUM!,ABCB11 CYP8B1
+Regulation of Cellular Mechanics by Calpain Protease,0.815,0.0337,#NUM!,CAPN8 CNGB3 ITGAL
+Estrogen Biosynthesis,0.813,0.0435,#NUM!,CYP1B1 HSD17B8
+DNA damage-induced 14-3-3σ Signaling,0.813,0.0435,#NUM!,CASP8 HUS1
+IL-23 Signaling Pathway,0.813,0.0435,#NUM!,SOCS3 STAT4
+Phenylalanine and tyrosine metabolism,0.81,0.0909,#NUM!,TAT
+Pexophagy,0.81,0.0909,#NUM!,MAP1LC3B
+NFE2L2 regulating tumorigenic genes,0.81,0.0909,#NUM!,MAFK
+NAD Phosphorylation and Dephosphorylation,0.81,0.0909,#NUM!,ACP5
+Role of PKR in Interferon Induction and Antiviral Response,0.801,0.029,#NUM!,CASP8 FOS MARCO TIRAP
+Interleukin-2 family signaling,0.798,0.0426,#NUM!,LGALS9 STAT4
+Superpathway of Melatonin Degradation,0.795,0.033,#NUM!,CYP1B1 SULT1C2 SULT1C4
+STAT3 Pathway,0.793,0.0288,#NUM!,CISH IL1RL2 IL20RA SOCS3
+XBP1(S) activates chaperone genes,0.783,0.0417,#NUM!,EXTL3 WFS1
+Complex IV assembly,0.783,0.0417,#NUM!,COX14 TACO1
+Reversible hydration of carbon dioxide,0.776,0.0833,#NUM!,CA13
+Peptide hormone biosynthesis,0.776,0.0833,#NUM!,TSHB
+Signaling by Leptin,0.776,0.0833,#NUM!,SOCS3
+Lysine catabolism,0.776,0.0833,#NUM!,CRYM
+Glycogen Degradation III,0.776,0.0833,#NUM!,PYGL
+Immunogenic Cell Death Signaling Pathway,0.757,0.0316,#NUM!,ANXA1 CASP8 P2RX7
+RUNX1 regulates megakaryocyte differentiation and platelet function,0.757,0.0316,#NUM!,GATA1 H2BC21 H3C6
+Apelin Adipocyte Signaling Pathway,0.757,0.0316,#NUM!,CP GSTP1 MGST2
+Signaling by NOTCH3,0.756,0.04,#NUM!,HES5 IKZF1
+MYC Mediated Apoptosis Signaling,0.756,0.04,#NUM!,ADRB3 CASP8
+Erythrocytes take up carbon dioxide and release oxygen,0.744,0.0769,#NUM!,RHAG
+Mitochondrial iron-sulfur cluster biogenesis,0.744,0.0769,#NUM!,SLC25A37
+Advanced glycosylation endproduct receptor signaling,0.744,0.0769,#NUM!,SAA1
+Gap junction trafficking and regulation,0.743,0.0392,#NUM!,TUBA3E TUBB1
+UVC-Induced MAPK Signaling,0.743,0.0392,#NUM!,FOS SMPD2
+Transcriptional regulation by RUNX3,0.739,0.0309,#NUM!,ITGAL PSMD9 PSME1
+Meiosis Initiation Signaling Pathway,0.73,0.0306,#NUM!,MSH5 SYCE3 SYCP3
+Proteasome assembly,0.73,0.0385,#NUM!,PSMD9 PSME1
+TNFR1 Signaling,0.73,0.0385,#NUM!,CASP8 FOS
+Amyloid Processing,0.73,0.0385,#NUM!,CAPN8 CSNK2A1
+Protein folding,0.721,0.0303,#NUM!,CSNK2A1 TUBA3E TUBB1
+Tryptophan catabolism,0.715,0.0714,#NUM!,IDO2
+Glutamate and glutamine metabolism,0.715,0.0714,#NUM!,PYCR2
+Assembly of RNA Polymerase III Complex,0.715,0.0714,#NUM!,BRF2
+Choline Biosynthesis III,0.715,0.0714,#NUM!,PLD6
+Colanic Acid Building Blocks Biosynthesis,0.715,0.0714,#NUM!,GALK2
+Regulation of Apoptosis,0.705,0.037,#NUM!,PSMD9 PSME1
+Cellular response to heat stress,0.704,0.0297,#NUM!,BAG2 EEF1A1 HSPA12B
+S Phase,0.704,0.0297,#NUM!,PSMD9 PSME1 PTK6
+COPI-mediated anterograde transport,0.695,0.0294,#NUM!,SPTBN5 TUBA3E TUBB1
+Signaling by PTK6,0.693,0.0364,#NUM!,PTK6 SOCS3
+Amino acids regulate mTORC1,0.693,0.0364,#NUM!,LAMTOR1 RRAGD
+Phosphorylation and nuclear translocation of the CRY:PER:kinase complex,0.689,0.0667,#NUM!,CSNK2A1
+Leukotriene Biosynthesis,0.689,0.0667,#NUM!,MGST2
+Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses,0.686,0.026,#NUM!,C3 C3AR1 PTX3 TLR8
+NLR signaling pathways,0.681,0.0357,#NUM!,CASP8 P2RX7
+Somitogenesis,0.681,0.0357,#NUM!,PSMD9 PSME1
+CD27 Signaling in Lymphocytes,0.681,0.0357,#NUM!,CASP8 FOS
+EGF Signaling,0.681,0.0357,#NUM!,CSNK2A1 FOS
+Corticotropin Releasing Hormone Signaling,0.679,0.0258,#NUM!,FOS GUCY2D NR4A1 PTGS2
+HSP90 chaperone cycle for steroid hormone receptors in the presence of ligand,0.67,0.0351,#NUM!,TUBA3E TUBB1
+Caspase activation via Death Receptors in the presence of ligand,0.664,0.0625,#NUM!,CASP8
+Rap1 signalling,0.664,0.0625,#NUM!,RAPGEF3
+Granzyme B Signaling,0.664,0.0625,#NUM!,CASP8
+Extrinsic Prothrombin Activation Pathway,0.664,0.0625,#NUM!,F7
+Integration of energy metabolism,0.647,0.0278,#NUM!,GCG IQGAP1 RAPGEF3
+PPAR Signaling,0.647,0.0278,#NUM!,FOS IL1RL2 PTGS2
+Xenobiotic Metabolism AHR Signaling Pathway,0.647,0.0278,#NUM!,CYP1B1 GSTP1 MGST2
+Metabolism of Angiotensinogen to Angiotensins,0.641,0.0588,#NUM!,ANPEP
+Transcriptional regulation of pluripotent stem cells,0.641,0.0588,#NUM!,KLF4
+Protein methylation,0.641,0.0588,#NUM!,EEF1A1
+FOXO-mediated transcription of cell cycle genes,0.641,0.0588,#NUM!,KLF4
+Mechanical load activates signaling by PIEZO1 and integrins in osteocytes,0.641,0.0588,#NUM!,P2RX7
+Chondroitin Sulfate Degradation (Metazoa),0.641,0.0588,#NUM!,ARSB
+Egg-Sperm Fusion Signaling Pathway,0.639,0.0275,#NUM!,RAB27B RAPGEF3 SYT13
+Metabolism of polyamines,0.637,0.0333,#NUM!,PSMD9 PSME1
+GADD45 Signaling,0.637,0.0333,#NUM!,ACVR2B GADD45B
+Gamma carboxylation  hypusinylation  hydroxylation  and arylsulfatase activation,0.626,0.0328,#NUM!,ARSB F7
+NIK-->noncanonical NF-kB signaling,0.626,0.0328,#NUM!,PSMD9 PSME1
+Retinoic acid Mediated Apoptosis Signaling,0.626,0.0328,#NUM!,CASP8 PARP12
+Gastrin-CREB signalling pathway via PKC and MAPK,0.619,0.0556,#NUM!,RPS6KA2
+Phase I - Functionalization of compounds,0.617,0.0268,#NUM!,CYP1B1 CYP8B1 TBXAS1
+Kinesins,0.616,0.0323,#NUM!,TUBA3E TUBB1
+Degradation of CRY and PER proteins,0.616,0.0323,#NUM!,PSMD9 PSME1
+MSP-RON Signaling Pathway,0.616,0.0323,#NUM!,MST1 RPS6KA2
+Xenobiotic Metabolism PXR Signaling Pathway,0.615,0.0227,#NUM!,GSTP1 MGST2 SULT1C2 SULT1C4 SULT2B1
+DNA methylation,0.606,0.0317,#NUM!,H2BC21 H3C6
+Co-inhibition by BTLA,0.606,0.0317,#NUM!,STK33 WHR1
+Thyroid Hormone Metabolism II (via Conjugation and/or Degradation),0.606,0.0317,#NUM!,SULT1C2 SULT1C4
+IL-2 Signaling,0.606,0.0317,#NUM!,CSNK2A1 FOS
+Signaling by Activin,0.599,0.0526,#NUM!,ACVR2B
+Regulation of TP53 Activity through Methylation,0.599,0.0526,#NUM!,L3MBTL1
+Modulation of host responses by IFN-stimulated genes,0.599,0.0526,#NUM!,IFI44
+Collagen degradation,0.597,0.0312,#NUM!,CTSK MMP9
+UFMylation Signaling Pathway,0.597,0.0312,#NUM!,ERN1 GATA1
+Hedgehog 'off' state,0.596,0.0261,#NUM!,PSMD9 PSME1 TUBB1
+Activated PKN1 stimulates transcription of AR regulated genes KLK2 and KLK3,0.587,0.0308,#NUM!,H2BC21 H3C6
+Myocardin Signaling Pathway,0.582,0.0256,#NUM!,ACVR2B CNN1 KLF4
+Cholecystokinin/Gastrin-mediated Signaling,0.582,0.0256,#NUM!,CREM FOS PTGS2
+Receptor-type tyrosine-protein phosphatases,0.579,0.05,#NUM!,PPFIBP2
+Interleukin-12 family signaling,0.579,0.05,#NUM!,STAT4
+Class I peroxisomal membrane protein import,0.579,0.05,#NUM!,PXMP4
+Maturation of TCA enzymes and regulation of TCA cycle,0.579,0.05,#NUM!,SDHAF1
+Hedgehog ligand biogenesis,0.578,0.0303,#NUM!,PSMD9 PSME1
+Axonal Guidance Signaling,0.577,0.0193,#NUM!,ADAM8 ADAMTS13 ANPEP EIF3H ERAP2 ITGAL MMP28 MMP9 TUBA3E TUBB1
+Binding and Uptake of Ligands by Scavenger Receptors,0.569,0.0252,#NUM!,APOE MARCO SAA1
+Regulation of lipid metabolism by PPARalpha,0.569,0.0252,#NUM!,G0S2 ME1 PEX11A
+Sphingosine-1-phosphate Signaling,0.569,0.0252,#NUM!,ASAH2 CASP8 SMPD2
+PXR/RXR Activation,0.569,0.0299,#NUM!,ABCB11 IGFBP1
+CD40 Signaling,0.569,0.0299,#NUM!,FOS PTGS2
+Phagosome Maturation,0.566,0.023,#NUM!,CTSK CTSS TUBA3E TUBB1
+Nitric Oxide Signaling in the Cardiovascular System,0.562,0.025,#NUM!,ADRB3 GUCY2D PRKG2
+Bile Acid Biosynthesis  Neutral Pathway,0.561,0.0476,#NUM!,CYP8B1
+Endoplasmic Reticulum Stress Pathway,0.561,0.0476,#NUM!,ERN1
+Vitamin K Signaling Pathway,0.56,0.0294,#NUM!,APOE F7
+Xenobiotic Metabolism CAR Signaling Pathway,0.558,0.0216,#NUM!,GSTP1 MGST2 SULT1C2 SULT1C4 SULT2B1
+TNFR2 non-canonical NF-kB pathway,0.551,0.029,#NUM!,PSMD9 PSME1
+rRNA modification in the nucleus and cytosol,0.551,0.029,#NUM!,NOP10 SNU13
+Chromatin modifications during the maternal to zygotic transition (MZT),0.551,0.029,#NUM!,H2BC21 H3C6
+Cellular hexose transport,0.544,0.0455,#NUM!,SLC5A9
+Phosphorylated BMAL1:CLOCK (ARNTL:CLOCK) activates expression of core clock genes,0.544,0.0455,#NUM!,CREM
+Fatty Acid α-oxidation,0.544,0.0455,#NUM!,PTGS2
+TP53 Regulates Transcription of DNA Repair Genes,0.542,0.0286,#NUM!,FOS RAD51D
+Telomere Maintenance,0.537,0.0242,#NUM!,H2BC21 H3C6 NOP10
+p38 MAPK Signaling,0.537,0.0242,#NUM!,IL1RL2 PLA2G4C RPS6KA2
+Glioma Invasiveness Signaling,0.534,0.0282,#NUM!,MMP9 PLAU
+Oxidative Stress Induced Senescence,0.531,0.024,#NUM!,FOS H2BC21 H3C6
+Tight Junction Signaling,0.53,0.0221,#NUM!,F11R FOS IGSF5 MYH4
+RAF-independent MAPK1/3 activation,0.528,0.0435,#NUM!,DUSP2
+Signaling by NODAL,0.528,0.0435,#NUM!,ACVR2B
+Nephrin family interactions,0.528,0.0435,#NUM!,IQGAP1
+NFE2L2 regulating anti-oxidant/detoxification enzymes,0.528,0.0435,#NUM!,MAFK
+NAD Salvage Pathway II,0.528,0.0435,#NUM!,ACP5
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,0.526,0.0278,#NUM!,TUBA3E TUBB1
+PRC2 methylates histones and DNA,0.526,0.0278,#NUM!,H2BC21 H3C6
+Aryl Hydrocarbon Receptor Signaling,0.525,0.022,#NUM!,CYP1B1 FOS GSTP1 MGST2
+Regulation of RUNX2 expression and activity,0.517,0.0274,#NUM!,PSMD9 PSME1
+RHO GTPases Activate NADPH Oxidases,0.513,0.0417,#NUM!,CYBA
+Interleukin-6 family signaling,0.513,0.0417,#NUM!,SOCS3
+RAS processing,0.513,0.0417,#NUM!,PRKG2
+IL-22 Signaling,0.513,0.0417,#NUM!,SOCS3
+Vitamin-C Transport,0.513,0.0417,#NUM!,SLC23A1
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,0.51,0.027,#NUM!,H2BC21 H3C6
+Nicotine Degradation III,0.51,0.027,#NUM!,Aox2 CYP1B1
+Glycerophospholipid biosynthesis,0.507,0.0233,#NUM!,CSNK2A1 PLA2G4C PLD6
+trans-Golgi Network Vesicle Budding,0.502,0.0267,#NUM!,BLOC1S3 TFRC
+Extra-nuclear estrogen signaling,0.502,0.0267,#NUM!,FOS MMP9
+Interleukin-1 family signaling,0.501,0.0231,#NUM!,IL1RL2 PSMD9 PSME1
+Incretin synthesis  secretion  and inactivation,0.498,0.04,#NUM!,GCG
+Bupropion Degradation,0.498,0.04,#NUM!,CYP1B1
+HGF Signaling,0.496,0.0229,#NUM!,FOS ITGAL PTGS2
+GPCR-Mediated Integration of Enteroendocrine Signaling Exemplified by an L Cell,0.494,0.0263,#NUM!,ADRB3 GCG
+14-3-3-mediated Signaling,0.49,0.0227,#NUM!,FOS TUBA3E TUBB1
+Cellular response to hypoxia,0.487,0.026,#NUM!,PSMD9 PSME1
+Mitotic G1 phase and G1/S transition,0.484,0.0226,#NUM!,PSMD9 PSME1 PTK6
+BMAL1:CLOCK NPAS2 activates circadian expression,0.484,0.0385,#NUM!,F7
+Glycogen metabolism,0.484,0.0385,#NUM!,PYGL
+Signaling by Erythropoietin,0.484,0.0385,#NUM!,EPOR
+Cardiomyocyte Differentiation via BMP Receptors,0.484,0.0385,#NUM!,ACVR2B
+IL-17A Signaling in Gastric Cells,0.484,0.0385,#NUM!,FOS
+The Visual Cycle,0.484,0.0385,#NUM!,RBP3
+Signaling by NOTCH1,0.479,0.0256,#NUM!,HDAC10 HES5
+Maturity Onset Diabetes of Young (MODY) Signaling,0.479,0.0256,#NUM!,ALDOB APOE
+Hepatic Fibrosis / Hepatic Stellate Cell Activation,0.478,0.0208,#NUM!,CXCR3 IL1RL2 MMP9 MYH4
+Role of MAPK Signaling in Inhibiting the Pathogenesis of Influenza,0.472,0.0253,#NUM!,PLA2G4C PTGS2
+Integrin signaling,0.471,0.037,#NUM!,RAPGEF3
+ATF4 activates genes in response to endoplasmic reticulum stress,0.471,0.037,#NUM!,IGFBP1
+Role of JAK1  JAK2 and TYK2 in Interferon Signaling,0.471,0.037,#NUM!,TSHB
+IL-17A Signaling in Fibroblasts,0.465,0.025,#NUM!,CEBPD FOS
+Cerebral Malformation Signaling Pathway,0.463,0.0219,#NUM!,KLF4 MMP9 PTGS2
+Digestion,0.458,0.0357,#NUM!,AMY2A
+Glycolysis I,0.458,0.0357,#NUM!,ALDOB
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.458,0.0247,#NUM!,CASP8 SAA1
+Signaling by NTRK1 (TRKA),0.458,0.0247,#NUM!,RALGDS RPS6KA2
+ILK Signaling,0.456,0.0203,#NUM!,FOS MMP9 MYH4 PTGS2
+Reelin Signaling in Neurons,0.453,0.0216,#NUM!,APOE ARHGEF3 PDK2
+PPARα/RXRα Activation,0.452,0.0202,#NUM!,ACAA1 ACVR2B IL1RL2 LPL
+FLT3 Signaling in Hematopoietic Progenitor Cells,0.451,0.0244,#NUM!,RPS6KA2 STAT4
+PI3K/AKT Signaling,0.444,0.02,#NUM!,IL1RL2 IL20RA ITGAL PTGS2
+PI Metabolism,0.438,0.0238,#NUM!,GDE1 MTMR7
+SIRT1 negatively regulates rRNA expression,0.438,0.0238,#NUM!,H2BC21 H3C6
+Role of MAPK Signaling in the Pathogenesis of Influenza,0.438,0.0238,#NUM!,PLA2G4C PTGS2
+Signaling by NTRK3 (TRKC),0.434,0.0333,#NUM!,CASP8
+FOXO-mediated transcription of oxidative stress  metabolic and neuronal genes,0.434,0.0333,#NUM!,IGFBP1
+Signaling by CSF3 (G-CSF),0.434,0.0333,#NUM!,SOCS3
+DHCR24 Signaling Pathway,0.433,0.021,#NUM!,APOE C3 SAA1
+Integrin cell surface interactions,0.432,0.0235,#NUM!,F11R ITGAL
+TP53 Regulates Metabolic Genes,0.432,0.0235,#NUM!,LAMTOR1 RRAGD
+Nicotine Degradation II,0.432,0.0235,#NUM!,Aox2 CYP1B1
+Platelet homeostasis,0.425,0.0233,#NUM!,P2RX7 PRKG2
+Glucose metabolism,0.425,0.0233,#NUM!,ALDOB G6PC3
+VEGF Family Ligand-Receptor Interactions,0.425,0.0233,#NUM!,FOS PLA2G4C
+Signaling by BMP,0.423,0.0323,#NUM!,ACVR2B
+PDGF Signaling,0.419,0.023,#NUM!,CSNK2A1 FOS
+Transcriptional regulation of granulopoiesis,0.413,0.0227,#NUM!,H2BC21 H3C6
+Toll-like Receptor Cascades,0.412,0.0312,#NUM!,TLR8
+RIPK1-mediated regulated necrosis,0.412,0.0312,#NUM!,CASP8
+Xenobiotic Metabolism Signaling,0.412,0.0181,#NUM!,CYP1B1 GSTP1 MGST2 SULT1C2 SULT1C4 SULT2B1
+NRF2-mediated Oxidative Stress Response,0.409,0.0185,#NUM!,FOS FOSL1 GSTP1 MAFK MGST2
+Clathrin-mediated Endocytosis Signaling,0.408,0.0191,#NUM!,AP5B1 APOE CSNK2A1 TFRC
+B-WICH complex positively regulates rRNA expression,0.407,0.0225,#NUM!,H2BC21 H3C6
+NAP1L1 Transcription Regulation Signaling Pathway,0.407,0.0225,#NUM!,TUBA3E TUBB1
+Toll Like Receptor 3 (TLR3) Cascade,0.402,0.0303,#NUM!,CASP8
+Unfolded Protein Response (UPR),0.402,0.0303,#NUM!,ERN1
+Sialic acid metabolism,0.402,0.0303,#NUM!,NEU3
+TNFR2 Signaling,0.402,0.0303,#NUM!,FOS
+Inhibition of Angiogenesis by TSP1,0.402,0.0303,#NUM!,MMP9
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.401,0.0222,#NUM!,PSMD9 PSME1
+Regulation of mitotic cell cycle,0.395,0.022,#NUM!,PSMD9 PSME1
+Ceramide Signaling,0.395,0.022,#NUM!,FOS SMPD2
+Cargo concentration in the ER,0.392,0.0294,#NUM!,SEC23B
+Fatty Acid β-oxidation I,0.392,0.0294,#NUM!,ACAA1
+Degradation of beta-catenin by the destruction complex,0.39,0.0217,#NUM!,PSMD9 PSME1
+Cell junction organization,0.39,0.0217,#NUM!,CD151 F11R
+PKR-mediated signaling,0.39,0.0217,#NUM!,TUBA3E TUBB1
+Unfolded protein response,0.39,0.0217,#NUM!,CEBPD ERN1
+MAPK6/MAPK4 signaling,0.384,0.0215,#NUM!,PSMD9 PSME1
+Regulation of TP53 Activity through Phosphorylation,0.384,0.0215,#NUM!,CSNK2A1 HUS1
+Post-translational modification: synthesis of GPI-anchored proteins,0.384,0.0215,#NUM!,OTOA PIGP
+Fcγ Receptor-mediated Phagocytosis in Macrophages and Monocytes,0.384,0.0215,#NUM!,LCP2 PLD6
+GPVI-mediated activation cascade,0.383,0.0286,#NUM!,LCP2
+Late endosomal microautophagy,0.383,0.0286,#NUM!,PARK7
+Methylglyoxal Degradation III,0.383,0.0286,#NUM!,PTGR1
+Signaling by NOTCH2,0.373,0.0278,#NUM!,HES5
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,0.373,0.0278,#NUM!,APOE
+Class B/2 (Secretin family receptors),0.373,0.0211,#NUM!,ADGRE5 GCG
+Glucocorticoid Receptor Signaling,0.373,0.0167,#NUM!,ANXA1 FOS IL1RL2 IL20RA MMP9 PLA2G4C PLAU PTGS2 TAT TSC22D3
+Prolactin Signaling,0.368,0.0208,#NUM!,FOS SOCS3
+Serotonin Degradation,0.368,0.0208,#NUM!,SULT1C2 SULT1C4
+Death Receptor Signaling,0.363,0.0206,#NUM!,CASP8 PARP12
+TGF-β Signaling,0.363,0.0206,#NUM!,ACVR2B FOS
+Mitochondrial protein degradation,0.358,0.0204,#NUM!,FECH OXSM
+Huntington's Disease Signaling,0.356,0.0174,#NUM!,CAPN8 CASP8 HDAC10 PSMD9 PSME1
+MyD88-independent TLR4 cascade,0.356,0.0263,#NUM!,CASP8
+Metabolism of steroid hormones,0.356,0.0263,#NUM!,TSPO
+TWEAK Signaling,0.356,0.0263,#NUM!,CASP8
+Notch Signaling,0.356,0.0263,#NUM!,HES5
+Preeclampsia Signaling Pathway,0.354,0.0186,#NUM!,FOS MMP9 PTGS2
+eNOS Signaling,0.354,0.0186,#NUM!,CASP8 CHRM5 CNGB3
+Class C/3 (Metabotropic glutamate/pheromone receptors),0.34,0.025,#NUM!,GABBR1
+Potassium Channels,0.333,0.0194,#NUM!,GABBR1 KCNH1
+GPER1 signaling,0.333,0.0194,#NUM!,STK33 WHR1
+RNA Polymerase III Transcription,0.332,0.0244,#NUM!,BRF2
+NoRC negatively regulates rRNA expression,0.329,0.0192,#NUM!,H2BC21 H3C6
+Gαq Signaling,0.325,0.0178,#NUM!,CHRM5 HTR2B PLD6
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.324,0.0238,#NUM!,TIRAP
+Replacement of protamines by nucleosomes in the male pronucleus,0.324,0.0238,#NUM!,H2BC21
+April Mediated Signaling,0.324,0.0238,#NUM!,FOS
+Cardiac β-adrenergic Signaling,0.321,0.0176,#NUM!,GDE1 PDE6B PLD6
+CDK5 Signaling,0.319,0.0189,#NUM!,EGR1 FOSB
+Apoptosis Signaling,0.319,0.0189,#NUM!,CAPN8 CASP8
+Germ Cell-Sertoli Cell Junction Signaling,0.318,0.0175,#NUM!,IQGAP1 TUBA3E TUBB1
+Signaling by SCF-KIT,0.317,0.0233,#NUM!,MMP9
+DAP12 interactions,0.317,0.0233,#NUM!,LCP2
+Smooth Muscle Contraction,0.317,0.0233,#NUM!,ANXA1
+B Cell Activating Factor Signaling,0.317,0.0233,#NUM!,FOS
+Oncostatin M Signaling,0.317,0.0233,#NUM!,PLAU
+Transport of inorganic cations/anions and amino acids/oligopeptides,0.315,0.0187,#NUM!,SLC6A14 SLC9A1
+Senescence Pathway,0.312,0.0165,#NUM!,ACVR2B CAPN8 GADD45B PDK2 SAA1
+Epithelial Membrane Protein Signaling Pathway,0.311,0.0173,#NUM!,ACVR2B ANPEP ITGAL
+Signaling by Retinoic Acid,0.31,0.0227,#NUM!,PDK2
+TP53 Regulates Transcription of Cell Death Genes,0.31,0.0227,#NUM!,STEAP3
+TBC/RABGAPs,0.31,0.0227,#NUM!,MAP1LC3B
+Aspirin ADME,0.31,0.0227,#NUM!,SLC22A7
+Ribonucleotide Reductase Signaling Pathway,0.307,0.0172,#NUM!,FOS MMP9 PARP12
+Signaling by the B Cell Receptor (BCR),0.307,0.0172,#NUM!,BCL10 PSMD9 PSME1
+SUMOylation of transcription cofactors,0.303,0.0222,#NUM!,PARK7
+Interleukin-10 signaling,0.303,0.0222,#NUM!,PTGS2
+RNA Polymerase I Transcription,0.298,0.018,#NUM!,H2BC21 H3C6
+Role of IL-17F in Allergic Inflammatory Airway Diseases,0.297,0.0217,#NUM!,RPS6KA2
+Apelin Pancreas Signaling Pathway,0.297,0.0217,#NUM!,ERN1
+Actin Cytoskeleton Signaling,0.295,0.0164,#NUM!,IQGAP1 ITGAL MYH4 SLC9A1
+Role of RIG1-like Receptors in Antiviral Innate Immunity,0.29,0.0213,#NUM!,CASP8
+Role of MAPK Signaling in Promoting the Pathogenesis of Influenza,0.286,0.0175,#NUM!,PLA2G4C PTGS2
+DNA Damage Bypass,0.284,0.0208,#NUM!,POLH
+Inositol phosphate metabolism,0.284,0.0208,#NUM!,MTMR7
+Antimicrobial peptides,0.278,0.0204,#NUM!,ITLN1
+Heme signaling,0.278,0.0204,#NUM!,MAFK
+iNOS Signaling,0.278,0.0204,#NUM!,FOS
+Signaling by ERBB2,0.272,0.02,#NUM!,PTK6
+nNOS Signaling in Neurons,0.272,0.02,#NUM!,CAPN8
+Pre-NOTCH Expression and Processing,0.271,0.0169,#NUM!,H2BC21 H3C6
+ABC-family proteins mediated transport,0.271,0.0169,#NUM!,PSMD9 PSME1
+O-linked glycosylation,0.271,0.0169,#NUM!,ADAMTS13 CFP
+Virus Entry via Endocytic Pathways,0.267,0.0168,#NUM!,AP5B1 TFRC
+NR1H2 and NR1H3-mediated signaling,0.266,0.0196,#NUM!,APOE
+Fc Epsilon RI Signaling,0.263,0.0167,#NUM!,LCP2 PLA2G4C
+IL-17 Signaling,0.261,0.0159,#NUM!,FOS MMP9 PTGS2
+Sperm Motility,0.261,0.0156,#NUM!,CNGB3 PLA2G4C PRKG2 PTK6
+Apoptotic execution phase,0.261,0.0192,#NUM!,CASP8
+Activation of anterior HOX genes in hindbrain during early embryogenesis,0.26,0.0165,#NUM!,H2BC21 H3C6
+NGF Signaling,0.26,0.0165,#NUM!,RPS6KA2 SMPD2
+Synthesis of DNA,0.253,0.0163,#NUM!,PSMD9 PSME1
+Proteasomal PSMD10 Signaling Pathway,0.253,0.0163,#NUM!,MMP9 PSMD9
+Coronavirus Replication Pathway,0.253,0.0156,#NUM!,TMPRSS2 TUBA3E TUBB1
+Signaling by TGF-beta Receptor Complex,0.25,0.0185,#NUM!,F11R
+Retinol Biosynthesis,0.25,0.0185,#NUM!,LPL
+UVB-Induced MAPK Signaling,0.25,0.0185,#NUM!,FOS
+NOD1/2 Signaling Pathway,0.25,0.0155,#NUM!,ERN1 FOS TLR8
+IL-13 Signaling Pathway,0.249,0.0161,#NUM!,SERPINE3 SOCS3
+Regulation of the Epithelial Mesenchymal Transition by Growth Factors Pathway,0.247,0.0155,#NUM!,EGR1 FOS MMP9
+Intrinsic Pathway for Apoptosis,0.245,0.0182,#NUM!,CASP8
+CSDE1 Signaling Pathway,0.24,0.0179,#NUM!,FOS
+CNTF Signaling,0.24,0.0179,#NUM!,RPS6KA2
+Folate Signaling Pathway,0.235,0.0175,#NUM!,KLF4
+ROBO SLIT Signaling Pathway,0.233,0.0155,#NUM!,CNTNAP2 FOS
+Signaling by PDGF,0.231,0.0172,#NUM!,THBS4
+Role of CHK Proteins in Cell Cycle Checkpoint Control,0.231,0.0172,#NUM!,HUS1
+Role of IL-17A in Arthritis,0.231,0.0172,#NUM!,PTGS2
+Asparagine N-linked glycosylation,0.23,0.0154,#NUM!,DAD1 MAN2A1
+TR/RXR Activation,0.227,0.0153,#NUM!,ME1 TSHB
+Signaling by ERBB4,0.226,0.0169,#NUM!,APOE
+E3 ubiquitin ligases ubiquitinate target proteins,0.221,0.0167,#NUM!,BCL10
+GABA receptor activation,0.221,0.0167,#NUM!,GABBR1
+Triacylglycerol Biosynthesis,0.217,0.0164,#NUM!,OSGEPL1
+Triacylglycerol Degradation,0.213,0.0161,#NUM!,LPL
+NCAM signaling for neurite out-growth,0.209,0.0159,#NUM!,SPTBN5
+Transcriptional Regulation by MECP2,0.209,0.0159,#NUM!,GAMT
+Thrombopoietin Signaling,0.205,0.0156,#NUM!,FOS
+Mitochondrial protein import,0.201,0.0154,#NUM!,PAM16
+RAB geranylgeranylation,0.201,0.0154,#NUM!,RAB27B
+Dilated Cardiomyopathy Signaling Pathway,0,0.0132,#NUM!,CNN1 MYH4
+Oxytocin in Brain Signaling Pathway,0,0.0149,#NUM!,KCNJ13 PLA2G4C PTGS2
+Pulmonary Healing Signaling Pathway,0,0.0149,#NUM!,CELA2A MMP28 MMP9
+CLEAR Signaling Pathway,0,0.014,#NUM!,BLOC1S3 LAMTOR1 RRAGD TLR8
+SNARE Signaling Pathway,0,0.0145,#NUM!,MYH4 SYT13
+Macrophage Classical Activation Signaling Pathway,0,0.0106,#NUM!,IRF8 SOCS3
+Natural Killer Cell Signaling,0,0.0149,#NUM!,ITGAL LCP2 STAT4
+Neuregulin Signaling,0,0.00847,#NUM!,ITGAL
+Circadian Rhythm Signaling,0,0.0111,#NUM!,CSNK2A1 GUCY2D PRKG2
+Synaptic Long Term Potentiation,0,0.00806,#NUM!,RAPGEF3
+Amyotrophic Lateral Sclerosis Signaling,0,0.00855,#NUM!,CAPN8
+Synaptic Long Term Depression,0,0.0152,#NUM!,GUCY2D PLA2G4C PRKG2
+Acetylcholine Receptor Signaling Pathway,0,0.0152,#NUM!,CASP8 CHRM5 TH
+Adrenergic Receptor Signaling Pathway (Enhanced),0,0.0101,#NUM!,ADRB3 TH
+GABAergic Receptor Signaling Pathway (Enhanced),0,0.0143,#NUM!,CNTNAP2 GABBR1
+Orexin Signaling Pathway,0,0.00826,#NUM!,GCG PLA2G4C
+p53 Signaling,0,0.0102,#NUM!,GADD45B
+PIP3 activates AKT signaling,0,0.00676,#NUM!,NR4A1
+Eukaryotic Translation Elongation,0,0.00606,#NUM!,EEF1A1
+Signaling by VEGF,0,0.00935,#NUM!,CYBA
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,0,0.00494,#NUM!,C3 ITGAL SH2D1B
+Cell surface interactions at the vascular wall,0,0.00922,#NUM!,F11R ITGAL
+Generic Transcription Pathway,0,0.00699,#NUM!,HDAC10 NR4A1 ZNF729
+COPII-mediated vesicle transport,0,0.0137,#NUM!,SEC23B
+DNA Damage/Telomere Stress Induced Senescence,0,0.0128,#NUM!,H2BC21
+EPH-Ephrin signaling,0,0.0108,#NUM!,MMP9
+Signaling by ROBO receptors,0,0.0069,#NUM!,PSMD9 PSME1
+G alpha (12/13) signalling events,0,0.0125,#NUM!,ARHGEF3
+Cardiac conduction,0,0.00769,#NUM!,SCN4A
+RHO GTPases Activate Formins,0,0.0143,#NUM!,TUBA3E TUBB1
+Deubiquitination,0,0.0105,#NUM!,H2BC21 PSMD9 PSME1
+Nonhomologous End-Joining (NHEJ),0,0.0149,#NUM!,H2BC21
+DNA Double Strand Break Response,0,0.013,#NUM!,H2BC21
+Major pathway of rRNA processing in the nucleolus and cytosol,0,0.00391,#NUM!,SNU13
+Keratinization,0,0.00926,#NUM!,CELA2A TGM1
+Intra-Golgi and retrograde Golgi-to-ER traffic,0,0.0147,#NUM!,MAN2A1 TUBA3E TUBB1
+Mitotic Prophase,0,0.0142,#NUM!,H2BC21 H3C6
+Mitotic Prometaphase,0,0.0146,#NUM!,CSNK2A1 TUBA3E TUBB1
+Processing of Capped Intron-Containing Pre-mRNA,0,0.00345,#NUM!,SNU13
+Eukaryotic Translation Initiation,0,0.0099,#NUM!,CP EIF3H
+Nucleosome assembly,0,0.0141,#NUM!,H2BC21
+Cargo recognition for clathrin-mediated endocytosis,0,0.00952,#NUM!,TFRC
+Clathrin-mediated endocytosis,0,0.00775,#NUM!,TFRC
+RAB GEFs exchange GTP for GDP on RABs,0,0.0111,#NUM!,RAB27B
+Sensory processing of sound by inner hair cells of the cochlea,0,0.0145,#NUM!,CABP2
+Expression and translocation of olfactory receptors,0,0.00246,#NUM!,OR8G5
+Ion channel transport,0,0.00546,#NUM!,TSC22D3
+Autism Signaling Pathway,0,0.00326,#NUM!,CNTNAP2
+CGAS-STING Signaling Pathway,0,0.0145,#NUM!,IDO2 MAP1LC3B
+Protein Sorting Signaling Pathway,0,0.011,#NUM!,PLD6 SEC23B
+Sleep NREM Signaling Pathway,0,0.0087,#NUM!,ADRB3
+WNT/SHH Axonal Guidance Signaling Pathway,0,0.00658,#NUM!,SFRP1
+Cohesin Chromatin Regulation Pathway,0,0.01,#NUM!,H2BC21 H3C6 PCDHB3
+Mitochondrial Division Signaling Pathway,0,0.00602,#NUM!,CASP8
+Ribosomal Quality Control Signaling Pathway,0,0.00649,#NUM!,PSMD9 PSME1
+MITF-M-dependent gene expression,0,0.00909,#NUM!,IRF4
+Regulation of endogenous retroelements,0,0.0142,#NUM!,H2BC21 H3C6
+ID3 Signaling Pathway,0,0.00206,#NUM!,EGR1 LGALS1
+Centrosomal KIAA0586 Signaling Pathway,0,0.0149,#NUM!,PSMD9 PSME1
+Cilia Biogenesis Signaling Pathway,0,0.0147,#NUM!,TTC8 TUBA3E TUBB1
+Warburg Effect Signaling Pathway,0,0.00769,#NUM!,FOSL1
+GAIT Translation Signaling Pathway,0,0.011,#NUM!,APOE CP EIF3H
+Lysosome Positioning Signaling Pathway,0,0.0128,#NUM!,LAMTOR1 TLR8
+CGRP in Inflammation and Nociception Signaling Pathway,0,0.0068,#NUM!,RAPGEF3
+Exocyst Signaling Pathway,0,0.00181,#NUM!,IQGAP1
+XIST Epigenetic Regulation Signaling Pathway,0,0.013,#NUM!,KLF4 NSUN6
+Regulation of Actin-based Motility by Rho,0,0.00885,#NUM!,ITGAL
+α-Adrenergic Signaling,0,0.00901,#NUM!,PYGL
+Caveolar-mediated Endocytosis Signaling,0,0.0128,#NUM!,ITGAL
+TREM1 Signaling,0,0.0127,#NUM!,TLR8
+Role of NFAT in Regulation of the Immune Response,0,0.00191,#NUM!,FOS LCP2
+LPS-stimulated MAPK Signaling,0,0.0118,#NUM!,FOS
+CCR5 Signaling in Macrophages,0,0.00199,#NUM!,FOS
+Calcium-induced T Lymphocyte Apoptosis,0,0.00215,#NUM!,NR4A1
+Cytotoxic T Lymphocyte-mediated Apoptosis of Target Cells,0,0.00234,#NUM!,CASP8
+IL-3 Signaling,0,0.0123,#NUM!,FOS
+Airway Pathology in Chronic Obstructive Pulmonary Disease,0,0.00877,#NUM!,MMP9
+CXCR4 Signaling,0,0.0119,#NUM!,EGR1 FOS
+Induction of Apoptosis by HIV1,0,0.0152,#NUM!,CASP8
+IL-15 Production,0,0.0082,#NUM!,PTK6
+T Helper Cell Differentiation,0,0.00211,#NUM!,STAT4
+CCR3 Signaling in Eosinophils,0,0.00725,#NUM!,PLA2G4C
+CD28 Signaling in T Helper Cells,0,0.00574,#NUM!,BCL10 FOS LCP2
+Dendritic Cell Maturation,0,0.00493,#NUM!,IL1RL2 IRF8 STAT4
+HIF1α Signaling,0,0.00952,#NUM!,MMP28 MMP9
+Neuropathic Pain Signaling in Dorsal Horn Neurons,0,0.0099,#NUM!,FOS
+Factors Promoting Cardiogenesis in Vertebrates,0,0.00662,#NUM!,ACVR2B
+Renin-Angiotensin Signaling,0,0.0082,#NUM!,FOS
+Thrombin Signaling,0,0.00889,#NUM!,ARHGEF3 GATA1
+Cardiac Hypertrophy Signaling,0,0.00383,#NUM!,ADRB3
+ICOS-ICOSL Signaling in T Helper Cells,0,0.00195,#NUM!,LCP2
+HMGB1 Signaling,0,0.00625,#NUM!,FOS
+GNRH Signaling,0,0.0104,#NUM!,EGR1 FOS
+Human Embryonic Stem Cell Pluripotency,0,0.01,#NUM!,ACVR2B KLF4
+Melanocyte Development and Pigmentation Signaling,0,0.0101,#NUM!,RPS6KA2
+DNA Methylation and Transcriptional Repression Signaling,0,0.0102,#NUM!,GADD45B
+ATM Signaling,0,0.01,#NUM!,GADD45B
+Antiproliferative Role of Somatostatin Receptor 2,0,0.013,#NUM!,GUCY2D
+Androgen Signaling,0,0.00571,#NUM!,SHBG
+Aldosterone Signaling in Epithelial Cells,0,0.0117,#NUM!,HSPA12B SLC9A1
+Role of NANOG in Mammalian Embryonic Stem Cell Pluripotency,0,0.00813,#NUM!,ACVR2B
+Renal Cell Carcinoma Signaling,0,0.0128,#NUM!,FOS
+Type I Diabetes Mellitus Signaling,0,0.0039,#NUM!,CASP8 SOCS3
+Glioma Signaling,0,0.00781,#NUM!,HDAC10
+Acute Myeloid Leukemia Signaling,0,0.0109,#NUM!,PIM2
+Type II Diabetes Mellitus Signaling,0,0.0132,#NUM!,SMPD2 SOCS3
+Gα12/13 Signaling,0,0.00746,#NUM!,F2RL1
+p70S6K Signaling,0,0.00172,#NUM!,F2RL1
+mTOR Signaling,0,0.0125,#NUM!,EIF3H PLD6 RPS6KA2
+G Protein Signaling Mediated by Tubby,0,0.00213,#NUM!,LCP2
+Communication between Innate and Adaptive Immune Cells,0,0.00106,#NUM!,TLR8
+Crosstalk between Dendritic Cells and Natural Killer Cells,0,0.0102,#NUM!,ITGAL
+Systemic Lupus Erythematosus Signaling,0,0.00374,#NUM!,CREM FOS PIM2 SNU13
+CDC42 Signaling,0,0.00515,#NUM!,FOS IQGAP1 ITGAL
+EIF2 Signaling,0,0.00347,#NUM!,EIF3H
+AMPK Signaling,0,0.0123,#NUM!,ADRB3 CHRM5 MLYCD
+PAK Signaling,0,0.00847,#NUM!,ITGAL
+RAC Signaling,0,0.0144,#NUM!,IQGAP1 ITGAL
+Altered T Cell and B Cell Signaling in Rheumatoid Arthritis,0,0.00106,#NUM!,TLR8
+Regulation of eIF4 and p70S6K Signaling,0,0.00917,#NUM!,EIF3H ITGAL
+Leptin Signaling in Obesity,0,0.013,#NUM!,SOCS3
+Role of NFAT in Cardiac Hypertrophy,0,0.00437,#NUM!,HDAC10
+IL-1 Signaling,0,0.0102,#NUM!,FOS
+RANK Signaling in Osteoclasts,0,0.0108,#NUM!,FOS
+Regulation of IL-2 Expression in Activated and Anergic T Lymphocytes,0,0.00428,#NUM!,BCL10 FOS
+Granzyme A Signaling,0,0.0135,#NUM!,H1-6
+NUR77 Signaling in T Lymphocytes,0,0.00193,#NUM!,NR4A1
+PKCθ Signaling in T Lymphocytes,0,0.00535,#NUM!,BCL10 FOS LCP2
+PI3K Signaling in B Lymphocytes,0,0.00507,#NUM!,BCL10 C3 FOS
+P2Y Purinergic Receptor Signaling Pathway,0,0.00746,#NUM!,FOS
+Cyclins and Cell Cycle Regulation,0,0.0116,#NUM!,HDAC10
+Role of JAK1 and JAK3 in γc Cytokine Signaling,0,0.0145,#NUM!,SOCS3
+Actin Nucleation by ARP-WASP Complex,0,0.011,#NUM!,ITGAL
+Dopamine-DARPP32 Feedback in cAMP Signaling,0,0.0112,#NUM!,CREM PRKG2
+Paxillin Signaling,0,0.00943,#NUM!,ITGAL
+RHOGDI Signaling,0,0.0136,#NUM!,ARHGEF3 ITGAL MYH4
+Telomerase Signaling,0,0.00926,#NUM!,HDAC10
+Transcriptional Regulatory Network in Embryonic Stem Cells,0,0.0122,#NUM!,ACVR2B KLF4
+Ephrin A Signaling,0,0.00709,#NUM!,PRKG2
+ERBB Signaling,0,0.0108,#NUM!,FOS
+GDNF Family Ligand-Receptor Interactions,0,0.0132,#NUM!,FOS
+Gαi Signaling,0,0.0137,#NUM!,GABBR1 RALGDS
+PEDF Signaling,0,0.0119,#NUM!,CASP8
+Regulation of the Epithelial-Mesenchymal Transition Pathway,0,0.0103,#NUM!,EGR1 MMP9
+TEC Kinase Signaling,0,0.00518,#NUM!,FOS ITGAL STAT4
+HIPPO signaling,0,0.013,#NUM!,MST1
+WNT/Ca2+ Signaling Pathway,0,0.0152,#NUM!,PDE6B
+Estrogen Receptor Signaling,0,0.00726,#NUM!,FOS MMP28 MMP9
+Cell Cycle: G1/S Checkpoint Regulation,0,0.0145,#NUM!,HDAC10
+PTEN Signaling,0,0.0132,#NUM!,CSNK2A1 ITGAL
+Protein Ubiquitination Pathway,0,0.0108,#NUM!,HSPA12B PSMD9 PSME1
+GABA Receptor Signaling,0,0.00752,#NUM!,GABBR1
+IL-4 Signaling,0,0.00174,#NUM!,IRF4
+B Cell Receptor Signaling,0,0.00313,#NUM!,BCL10 EGR1
+Insulin Receptor Signaling,0,0.00775,#NUM!,SOCS3
+Chemokine Signaling,0,0.012,#NUM!,FOS
+Neurotrophin/TRK Signaling,0,0.0128,#NUM!,FOS
+Integrin to Cytoskeleton Signaling Pathway,0,0.00943,#NUM!,CAPN8 ITGAL
+Dopamine Receptor Signaling,0,0.0139,#NUM!,TH
+BMP signaling pathway,0,0.0111,#NUM!,ACVR2B
+GPCR-Mediated Nutrient Sensing in Enteroendocrine Cells,0,0.0084,#NUM!,GCG
+Sumoylation Pathway,0,0.0099,#NUM!,FOS
+GP6 Signaling Pathway,0,0.00781,#NUM!,LCP2
+Opioid Signaling Pathway,0,0.0141,#NUM!,FOS FOSB RPS6KA2 TH
+Th17 Activation Pathway,0,0.00611,#NUM!,IRF4 SOCS3 STAT4
+Endocannabinoid Neuronal Synapse Pathway,0,0.00667,#NUM!,PTGS2
+Apelin Cardiomyocyte Signaling Pathway,0,0.01,#NUM!,SLC9A1
+Apelin Endothelial Signaling Pathway,0,0.0069,#NUM!,FOS
+Synaptogenesis Signaling Pathway,0,0.0126,#NUM!,APOE CNTNAP2 SYT13 THBS4
+White Adipose Tissue Browning Pathway,0,0.0144,#NUM!,ADRB3 PRKG2
+Inhibition of ARE-Mediated mRNA Degradation Pathway,0,0.0123,#NUM!,PSMD9 PSME1
+HOTAIR Regulatory Pathway,0,0.0121,#NUM!,MMP28 MMP9
+BEX2 Signaling Pathway,0,0.0122,#NUM!,LGALS1
+Xenobiotic Metabolism General Signaling Pathway,0,0.0122,#NUM!,GSTP1 MGST2
+Insulin Secretion Signaling Pathway,0,0.00704,#NUM!,GCG STAT4
+Semaphorin Neuronal Repulsive Signaling Pathway,0,0.0134,#NUM!,ITGAL PRKG2
+Calcium Signaling,0,0.0138,#NUM!,CHRM5 HDAC10 MYH4
+GM-CSF Signaling,0,0.0143,#NUM!,CISH
+Ephrin Receptor Signaling,0,0.00495,#NUM!,ITGAL
+Ferroptosis Signaling Pathway,0,0.0146,#NUM!,STEAP3 TFRC
