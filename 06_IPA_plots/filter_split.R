@@ -1,6 +1,7 @@
 library(tidyverse)
 
-setwd("c:/00_Research_projects/11_RNA-seq/iqgap1_RNAseq_dataset/STAR-RSEM_data/IPA")
+# set the working folder to the current folder where this script is stored
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 all_data <- read.csv("iqgap1_53hpf_IPA_pathways.tsv")
 head(all_data)

@@ -1,14 +1,17 @@
-if (!requireNamespace("BiocManager", quietly = TRUE))
-  install.packages("BiocManager")
-# orthogene is only available on Bioconductor>=3.14
-if(BiocManager::version()<"3.14") BiocManager::install(version = "3.14")
+# if (!requireNamespace("BiocManager", quietly = TRUE))
+#   install.packages("BiocManager")
 
-#BiocManager::install("orthogene")
+# orthogene is only available on Bioconductor>=3.14
+# if(BiocManager::version()<"3.14") BiocManager::install(version = "3.14")
+
+# BiocManager::install("orthogene")
 
 library(orthogene)
 
-setwd("c:/00_Research_projects/11_RNA-seq/iqgap1_RNAseq_dataset/STAR-RSEM_data/GSEA")
+# set the working folder to the current folder where this script is stored
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
+# set the method for the orthogene package
 method <- "gprofiler"
 
 # full: iqgap1_53hpf_star_rsem_all-genes.csv
@@ -49,9 +52,7 @@ genes_df <-  genes_df[, new_colnames]
 genes_df <- genes_df |> 
   arrange(desc(logFC))
 
-# 2-fold: MZ-osgep-G177A_genes_edgeR_4_GSEA-v2.csv
-# full: MZ-osgep-G177A_genes_edgeR_GSEA_full.csv
-
+# output the results
 write.csv(genes_df, "iqgap1_mut_vs_wt_53hpf_genes_edgeR_GSEA_full.csv", quote = FALSE)
   
 ########################################################

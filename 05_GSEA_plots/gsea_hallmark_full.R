@@ -19,7 +19,8 @@ library(msigdbr)
 # 3. run the script below.
 
 
-setwd("c:/00_Research_projects/11_RNA-seq/iqgap1_RNAseq_dataset/STAR-RSEM_data/GSEA")
+# set the working folder to the current folder where this script is stored
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 # full: iqgap1_mut_vs_wt_53hpf_genes_edgeR_GSEA_full.csv
 
@@ -96,7 +97,3 @@ ggplot(eh_df, aes(negLogPvalue, fct_reorder(ID, negLogPvalue),
 
 ggsave("HALLMARK_sets-iqgap1-mut.png", dpi = 300)
   
-
-
-
-
