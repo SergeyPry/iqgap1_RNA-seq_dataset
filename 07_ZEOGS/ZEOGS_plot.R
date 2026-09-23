@@ -8,7 +8,8 @@ library(ggrepel)
 library(forcats)
 library(stringr)
 
-setwd("c:/00_Research_projects/11_RNA-seq/iqgap1_RNAseq_dataset/STAR-RSEM_data/ZEOGS")
+# set the working folder to the current folder where this script is stored
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 ZEOGS_df <- read.csv("ZEOGS_selected_df.tsv", sep = '\t')
 head(ZEOGS_df)
